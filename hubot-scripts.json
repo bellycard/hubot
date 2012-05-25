@@ -1,7 +1,11 @@
-["redis-brain.coffee", "tweet.coffee", "shipit.coffee", "ambush.coffee", "ascii.coffee",
-"cheer.coffee", "chm.coffee", "coin.coffee", "days_since.coffee", "decide.coffee",
-"gemwhois.coffee", "fortune.coffee", "giftv.coffee", "github-commiters.coffee", "github-pulls.coffee",
-"invalid.coffee", "isup.coffee", "janky.coffee", "jenkins.coffee", "meme_generator.coffee",
-"mitch-hedburg.coffee", "newrelic.coffee", "polite.coffee", "redis-brain.coffee", "remind.coffee",
-"romanemperor.coffee", "sendgrid.coffee", "sosearch.coffee", "sudo.coffee", "tweet.coffee",
-"urban.coffee", "walmart.coffee", "xkcd.coffee", "yomama.coffee"]
+[
+"redis-brain.coffee",
+"ambush.coffee", "ascii.coffee", "cheer.coffee", "chm.coffee", "coin.coffee",
+"days_since.coffee", "decide.coffee", "gemwhois.coffee", "fortune.coffee",
+"giftv.coffee", "github-commiters.coffee", "github-pulls.coffee", "invalid.coffee",
+"isup.coffee", "janky.coffee", "jenkins.coffee", "meme_generator.coffee",
+"mitch-hedburg.coffee", "newrelic.coffee", "polite.coffee", "remind.coffee",
+"romanemperor.coffee", "sendgrid.coffee", "shipit.coffee", "sosearch.coffee",
+"sudo.coffee", "tweet.coffee", "urban.coffee", "walmart.coffee",
+"xkcd.coffee", "yomama.coffee"
+]
