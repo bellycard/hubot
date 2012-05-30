@@ -1,1 +1,1 @@
-web: bin/hubot -a gtalk -n flopbot
+app: bin/hubot -a gtalk -n flopbot
