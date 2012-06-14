@@ -1,1 +1,1 @@
-web: bin/hubot -a xmpp -n flopbot
+web: bin/hubot -a campfire -n flopbot
