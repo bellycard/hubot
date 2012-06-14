@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n flopbot
+web: bin/hubot -a irc -n flopbot
