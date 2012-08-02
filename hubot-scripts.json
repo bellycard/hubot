@@ -1,0 +1,33 @@
+[
+"redis-brain.coffee",
+
+"abstract.coffee", "ambush.coffee", "animal.coffee", "archer.coffee", "ascii.coffee",
+  "auth.coffee",
+"bang-bang.coffee", "base64.coffee", "brewerydb.coffee",
+"chat.coffee", "cheer.coffee", "chm.coffee", "coin.coffee", "commitmessage.com",
+"days_since.coffee", "decide.coffee", "defprogramming.coffee", "dice.coffee",
+"filmwise.coffee", "fortune.coffee", "fml.coffee",
+"gemwhois.coffee", "giftv.coffee",
+  "github-commiters.coffee", "github-issuelink.coffee", "github-issues.coffee", "github-pulls.coffee",
+  "google.coffee",
+"hashing.coffee", "haters.coffee",
+"invalid.coffee", "isup.coffee", "invalid.coffee",
+"janky.coffee", "jenkins.coffee",
+"karma.coffee", "keep-alive.coffee",
+"likeaboss.coffee", "look-of-disapproval.coffee",
+"meme_generator.coffee", "mitch-hedburg.coffee",
+"newrelic.coffee",
+"octocat.coffee",
+"polite.coffee",
+"quote.coffee",
+"rageface.coffee", "reddit.coffee", "reddit-jokes.coffee", "remind.coffee", 
+  "rotten.coffee", "rubygems.coffee",
+"script.coffee", "sendgrid.coffee", "shipit.coffee", "sms.coffee",
+  "sosearch.coffee", "sudo.coffee",
+"tell.coffee", "tweet.coffee", "twss.coffee",
+"urban.coffee",
+"walmart.coffee", "whos-turn.coffee", "wunderground.coffee",
+"xkcd.coffee",
+"yomama.coffee"
+]
+ 
