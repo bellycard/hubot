@@ -1,0 +1,26 @@
+info it worked if it ends with ok
+verbose cli [ 'node', '/usr/local/bin/npm', 'install' ]
+info using npm@1.1.22
+info using node@v0.6.18
+verbose /usr/local/bin/node node symlink
+verbose config file /Users/seth/.npmrc
+verbose config file /usr/local/etc/npmrc
+verbose config file /usr/local/lib/node_modules/npm/npmrc
+verbose caching /opt/projects/flopbot/package.json
+verbose loadDefaults hosted-hubot@2.2.0
+verbose readDependencies: using package.json deps
+verbose where, deps [ '/opt/projects/flopbot',
+verbose where, deps   [ 'hubot', 'hubot-scripts', 'optparse', 'hubot-gtalk' ] ]
+verbose from cache /opt/projects/flopbot/package.json
+info preinstall hosted-hubot@2.2.0
+verbose caching /opt/projects/flopbot/node_modules/hubot/package.json
+verbose caching /opt/projects/flopbot/node_modules/hubot-scripts/package.json
+verbose caching /opt/projects/flopbot/node_modules/optparse/package.json
+verbose from cache /opt/projects/flopbot/package.json
+verbose readDependencies: using package.json deps
+verbose from cache /opt/projects/flopbot/node_modules/hubot/package.json
+verbose from cache /opt/projects/flopbot/node_modules/hubot-scripts/package.json
+verbose from cache /opt/projects/flopbot/node_modules/optparse/package.json
+verbose already installed in /opt/projects/flopbot skipping hubot-scripts@>=2.0.8
+verbose already installed in /opt/projects/flopbot skipping optparse@1.0.3
+verbose cache add [ 'hubot-gtalk@>= 0.0.1', null ]
